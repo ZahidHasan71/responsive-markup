@@ -21,26 +21,21 @@
 
 ## Design Club Website responsive Templates with pixel perfect mobile view. 
 
-- [Royal Buffet Restaurent - Website Template](#royal_buffet)
+- [Html Handnotes](#html)
 - 
 
 
-## Royal Buffet Restaurent - Website Template: <a name = "royal_buffet"></a>
+## HTML Handnotes - for beg: <a name = "html"></a>
 
-- Analytical website. (pinterest, google, github, stackoverflow, w3school)
-- Fonts: Arial, Times-new-roman
-- Icons: 
-- Images: 100% premium images. 
+- Tags
+- Form tags
+- Tables
 
 
 
 ---
 
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
+<p>
   <br />
-  Project Designed by - Design Clubs
+  Documented by - Zahid Hassan
 </p>
